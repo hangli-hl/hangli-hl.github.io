@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Hang Li's Homepage
 
-You can use the [editor on GitHub](https://github.com/hangli-hl/hangli-hl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a director of AI Lab at Bytedance Technology, also known as Toutiao. I joined Bytedance Technology in 2017.  I worked at the Research Laboratories of NEC Corporation during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Huawei Technologies during 2012 and 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I obtained a B.S. in Electrical and Electronics Engineering from Kyoto University in 1988 and a M.S. in Electrical and Electronics Engineering from Kyoto University in 1990. I earned my Ph.D. in Computer Science from the University of Tokyo in 1998.
 
-### Markdown
+My research areas include natural language processing, information retrieval, machine learning, and data mining.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Bytedance Technology
+Zhonghang Plaza,  No. 43,  North 3rd Ring West Road, Haidian District, Beijing
+Mail: lihang.lh @ bytedance.com
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hangli-hl/hangli-hl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
