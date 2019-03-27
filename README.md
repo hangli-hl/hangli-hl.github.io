@@ -6,7 +6,7 @@ I obtained a B.S. in Electrical and Electronics Engineering from Kyoto Universit
 
 My research areas include natural language processing, information retrieval, machine learning, and data mining.
 
-# Contact
+### Contact
 
 Bytedance Technology
 Zhonghang Plaza,  No. 43,  North 3rd Ring West Road, Haidian District, Beijing
