@@ -8,7 +8,7 @@ My research areas include natural language processing, information retrieval, ma
 
 ### Contact
 
-Bytedance Technology
+Bytedance Technology,
 Fangheng,  No. 27,  North 3rd Ring West Road, Haidian District, Beijing
 Mail: lihang.lh @ bytedance.com
 
