@@ -9,7 +9,7 @@ My research areas include natural language processing, information retrieval, ma
 ### Contact
 
 Bytedance Technology
-Zhonghang Plaza,  No. 43,  North 3rd Ring West Road, Haidian District, Beijing
+Fangheng,  No. 27,  North 3rd Ring West Road, Haidian District, Beijing
 Mail: lihang.lh @ bytedance.com
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
