@@ -9,7 +9,8 @@ I am an ACM Fellow, ACL Fellow, and IEEE Fellow. My research areas include natur
 ### Contact
 
 Bytedance Technology,
-Fangheng,  No. 27,  North 3rd Ring West Road, Haidian District, Beijing
+Fangheng,  No. 27,  North 3rd Ring West Road, Haidian District, Beijing, 100006, China
+
 Mail: lihang.lh @ bytedance.com
 
 ### Selected Recent Papers
@@ -26,7 +27,7 @@ Mail: lihang.lh @ bytedance.com
 
 * Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, arXiv:2308.05374, 2023.
 
-* Y Zeng, X Zhang, H Li, J Wang, J Zhang, W Zhou,  X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks, IEEE PAMI.
+* Y Zeng, X Zhang, H Li, J Wang, J Zhang, W Zhou,  X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks, IEEE PAMI, 2023.
 
 * H Li, Language Models: Past, Present, and Future, Communications of the ACM 65 (7), 56-63, 2023.
 
@@ -46,8 +47,8 @@ Mail: lihang.lh @ bytedance.com
 
 * Zichao Li, Xin Jiang, Lifeng Shang, Hang Li, Paraphrase Generation Using Deep Reinforcement Learning, EMNLP 2018.
 
-### My Recent Books
+### Recent Books
 
-* H Li, Machine Learning Methods, translated by L Lin, H Zeng, Springer, 2024.
+* Hang Li, Machine Learning Methods, translated by L Lin, H Zeng, Springer, 2024.
   
 * 李航，机器学习方法，清华大学出版社，2022.
