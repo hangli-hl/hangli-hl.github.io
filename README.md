@@ -49,6 +49,6 @@ Mail: lihang.lh @ bytedance.com
 
 ### Recent Books
 
-* Hang Li, Machine Learning Methods, translated by L Lin, H Zeng, Springer, 2024.
+* Hang Li, [Machine Learning Methods](https://link.springer.com/book/10.1007/978-981-99-3917-6}, translated by L Lin, H Zeng, Springer, 2024.
   
-* 李航，机器学习方法，清华大学出版社，2022.
+* 李航，[机器学习方法](http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09353201)，清华大学出版社，2022.
