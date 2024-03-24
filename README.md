@@ -4,7 +4,7 @@ I am head of Research at Bytedance Technology. I joined Bytedance in Beijing in 
 
 I obtained a B.S. in Electrical and Electronics Engineering from Kyoto University in 1988 and a M.S. in Electrical and Electronics Engineering from Kyoto University in 1990. I earned my Ph.D. in Computer Science from the University of Tokyo in 1998.
 
-My research areas include natural language processing, information retrieval, machine learning, and data mining.
+I am an ACM Fellow, ACL Fellow, and IEEE Fellow. My research areas include natural language processing, information retrieval, machine learning, and data mining.
 
 ### Contact
 
@@ -14,7 +14,8 @@ Mail: lihang.lh @ bytedance.com
 
 ### Selected Recent Publications
 
-Ziniu Hu, Yang Wang, Qu Peng, Hang Li, Unbiased LambdaMART: An Unbiased Pairwise Learning to Rank Algorithm, Proceedings of the Web Conference (WebConf 2019). 
-Zichao Li, Xin Jiang, Lifeng Shang, Hang Li, Paraphrase Generation Using Deep Reinforcement Learning, Proceedings of Conference on Empirical Methods for Natural Language Processing, (EMNLP'18), 2018.
+* Ziniu Hu, Yang Wang, Qu Peng, Hang Li, Unbiased LambdaMART: An Unbiased Pairwise Learning to Rank Algorithm, Proceedings of the Web Conference (WebConf 2019). 
+
+* Zichao Li, Xin Jiang, Lifeng Shang, Hang Li, Paraphrase Generation Using Deep Reinforcement Learning, Proceedings of Conference on Empirical Methods for Natural Language Processing, (EMNLP'18), 2018.
 
 
