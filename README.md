@@ -14,6 +14,14 @@ Mail: lihang.lh @ bytedance.com
 
 ### Selected Recent Publications
 
+* Y Liu, P Sun, H Li, Large Language Models as Agents in Two-Player Games, arXiv preprint arXiv:2402.08078, 2024.
+
+* Y Zeng, G Wei, J Zheng, J Zou, Y Wei, Y Zhang, H Li, Make Pixels Dance: High-dynamic video generation, arXiv preprint arXiv:2311.10982, 2023.
+
+* Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, arXiv preprint arXiv:2308.05374, 2023.
+
+* Y Zeng, X Zhang, H Li, J Wang, J Zhang, W Zhou,  X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks, IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
 * Ziniu Hu, Yang Wang, Qu Peng, Hang Li, Unbiased LambdaMART: An Unbiased Pairwise Learning to Rank Algorithm, Proceedings of the Web Conference (WebConf 2019). 
 
 * Zichao Li, Xin Jiang, Lifeng Shang, Hang Li, Paraphrase Generation Using Deep Reinforcement Learning, Proceedings of Conference on Empirical Methods for Natural Language Processing, (EMNLP'18), 2018.
