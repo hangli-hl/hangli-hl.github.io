@@ -1,6 +1,6 @@
 # Hang Li's Homepage
 
-I am head of Research at Bytedance Technology. I joined Bytedance in Beijing in 2017.  I worked at the Research Laboratories of NEC Corporation during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
+I am head of Research at Bytedance Technology. I joined Bytedance in Beijing in 2017.  I worked at NEC Research during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
 
 I obtained a B.S. in Electrical and Electronics Engineering from Kyoto University in 1988 and a M.S. in Electrical and Electronics Engineering from Kyoto University in 1990. I earned my Ph.D. in Computer Science from the University of Tokyo in 1998.
 
@@ -49,6 +49,6 @@ Mail: lihang.lh @ bytedance.com
 
 ### Recent Books
 
-* Hang Li, [Machine Learning Methods](https://link.springer.com/book/10.1007/978-981-99-3917-6}, translated by L Lin, H Zeng, Springer, 2024.
+* Hang Li, [Machine Learning Methods](https://link.springer.com/book/10.1007/978-981-99-3917-6), translated by L Lin, H Zeng, Springer, 2024.
   
 * 李航，[机器学习方法](http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09353201)，清华大学出版社，2022.
