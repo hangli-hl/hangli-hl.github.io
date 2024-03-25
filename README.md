@@ -1,6 +1,6 @@
 # Hang Li's Homepage
 
-I am Head of Research at Bytedance Technology. I joined Bytedance in 2017.  I worked at NEC Research during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
+I am the Head of Research at Bytedance Technology. I joined Bytedance in 2017.  I worked at NEC Research during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
 
 I obtained a B.S. in Electrical and Electronics Engineering from Kyoto University in 1988 and a M.S. in Electrical and Electronics Engineering from Kyoto University in 1990. I earned my Ph.D. in Computer Science from the University of Tokyo in 1998.
 
@@ -19,7 +19,7 @@ Mail: lihang.lh @ bytedance.com
 
 * T Luong, X Zhang, Z Jie, P Sun, X Jin, H Li, Reft: Reasoning with Reinforced Fine-Tuning, arXiv preprint arXiv:2401.08967, 2024.
 
-* Y Zeng, G Wei, J Zheng, J Zou, Y Wei, Y Zhang, H Li, Make Pixels Dance: High-dynamic video generation, CVPR 2024.
+* Y Zeng, G Wei, J Zheng, J Zou, Y Wei, Y Zhang, H Li, Make Pixels Dance: High-dynamic Video Generation, CVPR 2024.
 
 * H Wu, Y Jing, C Cheang, G Chen, J Xu, X Li, M Liu, H Li, T Kong, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation, ICLR 2024.
 
