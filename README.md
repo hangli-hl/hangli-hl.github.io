@@ -13,19 +13,21 @@ Fangheng,  No. 27,  North 3rd Ring West Road, Haidian District, Beijing, 100006,
 
 Mail: lihang.lh @ bytedance.com
 
-### Selected Recent Papers
+### Selected Archive Papers
 
 * Y Liu, P Sun, H Li, Large Language Models as Agents in Two-Player Games, arXiv:2402.08078, 2024.
 
 * T Luong, X Zhang, Z Jie, P Sun, X Jin, H Li, Reft: Reasoning with Reinforced Fine-Tuning, arXiv preprint arXiv:2401.08967, 2024.
+
+* Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, arXiv:2308.05374, 2023.
+ 
+### Selected Recent Papers
 
 * Y Zeng, G Wei, J Zheng, J Zou, Y Wei, Y Zhang, H Li, Make Pixels Dance: High-dynamic Video Generation, CVPR 2024.
 
 * H Wu, Y Jing, C Cheang, G Chen, J Xu, X Li, M Liu, H Li, T Kong, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation, ICLR 2024.
 
 * X Li, M Liu, H Zhang, C Yu, J Xu, H Wu, C Cheang, Y Jing, W Zhang, et al,  Vision-Language Foundation Models as Effective Robot Imitators, ICLR 2024.
-
-* Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, arXiv:2308.05374, 2023.
 
 * Y Zeng, X Zhang, H Li, J Wang, J Zhang, W Zhou,  X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks, IEEE PAMI, 2023.
 
