@@ -27,8 +27,6 @@ Mail: lihang.lh @ bytedance.com
 
 * H Wu, Y Jing, C Cheang, G Chen, J Xu, X Li, M Liu, H Li, T Kong, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation, ICLR 2024.
 
-* X Li, M Liu, H Zhang, C Yu, J Xu, H Wu, C Cheang, Y Jing, W Zhang, et al,  Vision-Language Foundation Models as Effective Robot Imitators, ICLR 2024.
-
 * Y Zeng, X Zhang, H Li, J Wang, J Zhang, W Zhou,  X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks, IEEE PAMI, 2023.
 
 * H Li, Language Models: Past, Present, and Future, Communications of the ACM 65 (7), 56-63, 2023.
