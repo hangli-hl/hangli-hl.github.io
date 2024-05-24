@@ -15,6 +15,8 @@ Mail: lihang.lh @ bytedance.com
 
 ### Selected Archive Papers
 
+* P Feng, Y He, G Huang, Y Lin, H Zhang, Y Zhang, H Li, AGILE: A Novel Framework of LLM Agents, arXiv:2405.14751, 2024.
+
 * Y Liu, P Sun, H Li, Large Language Models as Agents in Two-Player Games, arXiv:2402.08078, 2024.
 
 * Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, arXiv:2308.05374, 2023.
