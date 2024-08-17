@@ -15,13 +15,15 @@ Mail: lihang.lh @ bytedance.com
 
 ### Selected Archive Papers
 
+* S Cheng, Z Huang, T Ko, H Li, N Peng, L Xu, Q Zhang, Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent. arXiv:2407.21646, 2024.
+
 * R Zheng, H Guo, Z Liu, X Zhang, Y Yao, X Xu, Z Wang, Z Xi, T Gui, Q Zhang, X Huang, H Li, Y Liu, 2024. Toward Optimal LLM Alignments Using Two-Player Games. arXiv preprint arXiv:2406.10977.
   
-* P Feng, Y He, G Huang, Y Lin, H Zhang, Y Zhang, H Li, AGILE: A Novel Framework of LLM Agents, arXiv:2405.14751, 2024.
+* P Feng, Y He, G Huang, Y Lin, H Zhang, Y Zhang, H Li, AGILE: A Novel Framework of LLM Agents. arXiv:2405.14751, 2024.
 
-* Y Liu, P Sun, H Li, Large Language Models as Agents in Two-Player Games, arXiv:2402.08078, 2024.
+* Y Liu, P Sun, H Li, Large Language Models as Agents in Two-Player Games. arXiv:2402.08078, 2024.
 
-* Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, arXiv:2308.05374, 2023.
+* Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment. arXiv:2308.05374, 2023.
  
 ### Selected Recent Publications
 
