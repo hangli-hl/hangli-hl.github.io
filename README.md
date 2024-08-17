@@ -23,7 +23,7 @@ Mail: lihang.lh @ bytedance.com
 
 * Y Liu, P Sun, H Li, Large Language Models as Agents in Two-Player Games. arXiv:2402.08078, 2024.
 
-* Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment. arXiv:2308.05374, 2023.
+* Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: Survey and Guideline for Evaluating Large Language Models' Alignment. arXiv:2308.05374, 2023.
  
 ### Selected Recent Publications
 
