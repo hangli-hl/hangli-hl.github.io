@@ -15,6 +15,8 @@ Mail: lihang.lh @ bytedance.com
 
 ### Selected Archive Papers
 
+* C Cheang, B Chen, Y Jing, T Kong, H Li, Y Li, Y Liu, H Wu, J Xu, Y Yang, H Zhang, GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. arXiv:2410.06158. 2024.
+
 * S Cheng, Z Huang, T Ko, H Li, N Peng, L Xu, Q Zhang, Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent. arXiv:2407.21646, 2024.
 
 * R Zheng, H Guo, Z Liu, X Zhang, Y Yao, X Xu, Z Wang, Z Xi, T Gui, Q Zhang, X Huang, H Li, Y Liu, 2024. Toward Optimal LLM Alignments Using Two-Player Games. arXiv preprint arXiv:2406.10977.
