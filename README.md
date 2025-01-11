@@ -41,7 +41,7 @@ Mail: lihang.lh @ bytedance.com
 
 * Z Liu, Z Wang, Y Lin, H Li, A Neural-Symbolic Approach to Natural Language Understanding, EMNLP 2023 Finding.
   
-* F Huang, H Zhou, Y Liu, H Li, M Huang, Directed Acyclic Transformer for Non-autoregressive Machine Translation, ICML 2022.
+* X Wu, J Zhang, H Li, Text-to-Table, a New Way of Information Extraction, ACL 2022.
 
 * Y Zeng, X Zhang, H Li, Multi-Grained Vision Language Pre-training: Aligning Texts with Visual Concepts, ICML 2022.
 
