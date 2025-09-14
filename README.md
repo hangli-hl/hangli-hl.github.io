@@ -1,6 +1,6 @@
 # Hang Li's Homepage
 
-I am the Head of Research at Bytedance Technology. I joined Bytedance in 2017.  I worked at NEC Research during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
+I lead research teams at Bytedance Seed, working on robotics, AI for science, and responsible AI. I joined Bytedance in 2017. I worked at NEC Research during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
 
 I obtained a B.S. in Electrical and Electronics Engineering from Kyoto University in 1988 and a M.S. in Electrical and Electronics Engineering from Kyoto University in 1990. I earned my Ph.D. in Computer Science from the University of Tokyo in 1998.
 
@@ -9,23 +9,37 @@ I am an ACM Fellow, ACL Fellow, and IEEE Fellow. My research areas include natur
 ### Contact
 
 Bytedance Technology,
-Fangheng,  No. 27,  North 3rd Ring West Road, Haidian District, Beijing, 100006, China
+Building C, E Plaza, 11 Zhongguancun Street, Haidian District, Beijing, 100080, China
 
 Mail: lihang.lh @ bytedance.com
 
 ### Selected Archive Papers
 
-* C Cheang, B Chen, Y Jing, T Kong, H Li, Y Li, Y Liu, H Wu, J Xu, Y Yang, H Zhang, GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. arXiv:2410.06158. 2024.
+* H Fang, M Zhang, H Dong, W Li, Z Wang, Q Zhang, X Tian, Y Hu, H Li. Robix: A Unified Model for Robot Interaction, Reasoning, and Planning. arXiv:2509.01106. 2025.
+
+* L Long, Y He, W Ye, Y Pan, Y Lin, H Li, J Zhao, W Li. Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory. arXiv:2508.09736, 2025.
+
+* C Cheang, S Chen, Z Cui, Y Hu, L Huang, T Kong, H Li, Y Li, Y Liu, X Ma, etc. GR-3 Technical Report. arXiv:2507.15493, 2025.
+
+* Y Zhou, J Zhao, Y Zhang, B  Wang, S Wang, L Chen, J Wang, H Chen, etc. Solving Formal Math Problems by Decomposition and Iterative Reflection. arXiv:2507.15225, 2025.
+
+* A Estornell, JF Ton, MF Taufiq, H Li. How to Train a Leader: Hierarchical Reasoning in Multi-agent LLMs. arXiv:2507.08960, 2025.
+
+* S Chen, P He, J Hu, Z Liu, Y Wang, T Xu, C Zhang, C Zhang, C An, S Cai, etc. Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning. arXiv:2506.06205, 2025.
+
+* C Cheang, B Chen, Y Jing, T Kong, H Li, Y Li, Y Liu, H Wu, J Xu, Y Yang, H Zhang, GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. arXiv:2410.06158, 2024.
 
 * S Cheng, Z Huang, T Ko, H Li, N Peng, L Xu, Q Zhang, Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent. arXiv:2407.21646, 2024.
-
-* R Zheng, H Guo, Z Liu, X Zhang, Y Yao, X Xu, Z Wang, Z Xi, T Gui, Q Zhang, X Huang, H Li, Y Liu, 2024. Toward Optimal LLM Alignments Using Two-Player Games. arXiv preprint arXiv:2406.10977.
   
 * Y Liu, P Sun, H Li, Large Language Models as Agents in Two-Player Games. arXiv:2402.08078, 2024.
 
 * Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: Survey and Guideline for Evaluating Large Language Models' Alignment. arXiv:2308.05374, 2023.
  
 ### Selected Recent Publications
+
+* R Zheng, H Guo, Z Liu, X Zhang, Y Yao, X Xu, Z Wang, Z Xi, T Gui, Q Zhang, X Huang, H Li, Y Liu, 2024. Toward Optimal LLM Alignments Using Two-Player Games. EMNLP Findings 2025.
+
+* Y He, G Huang, P Feng, Y Lin, Y Zhang, H Li, W E. PaSa: An LLM Agent for Comprehensive Academic Paper Search. ACL 2025.
 
 * P Feng, Y He, G Huang, Y Lin, H Zhang, Y Zhang, H Li, AGILE: A Novel Framework of LLM Agents. NeurIPS 2024.
 
@@ -56,6 +70,8 @@ Mail: lihang.lh @ bytedance.com
 * Zichao Li, Xin Jiang, Lifeng Shang, Hang Li, Paraphrase Generation Using Deep Reinforcement Learning, EMNLP 2018.
 
 ### Recent Books
+
+* 李航，机器学习方法 第2版，清华大学出版社，2025.
 
 * Hang Li, [Machine Learning Methods](https://link.springer.com/book/10.1007/978-981-99-3917-6), translated by L Lin, H Zeng, Springer, 2024.
   
