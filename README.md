@@ -71,7 +71,7 @@ Mail: lihang.lh @ bytedance.com
 
 ### Recent Books
 
-* 李航，机器学习方法 第2版，清华大学出版社，2025.
+* 李航，[机器学习方法](https://www.tup.tsinghua.edu.cn/booksCenter/book_10948801.html),  第2版，清华大学出版社，2025.
 
 * Hang Li, [Machine Learning Methods](https://link.springer.com/book/10.1007/978-981-99-3917-6), translated by L Lin, H Zeng, Springer, 2024.
   
