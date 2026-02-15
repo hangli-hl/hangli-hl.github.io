@@ -65,6 +65,8 @@ Email: lihang.lh @ bytedance.com
   
 * X Wu, J Zhang, H Li, Text-to-Table, A New Way of Information Extraction, ACL 2022.
 
+* F Huang, H Zhou, Y Liu, H Li, M Huang, Directed Acyclic Transformer for Non-Autoregressive Machine Translation, ICML 2022.
+
 * Y Zeng, X Zhang, H Li, Multi-Grained Vision Language Pre-training: Aligning Texts with Visual Concepts, ICML 2022.
 
 * X Zhang, P Li, H Li, AMBERT: A Pre-trained Language Model with Multi-grained Tokenization, ACL-IJCNLP Findings 2021.
