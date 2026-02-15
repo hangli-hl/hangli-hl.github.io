@@ -29,7 +29,7 @@ Email: lihang.lh @ bytedance.com
 
 * Y Zhou, J Zhao, Y Zhang, B  Wang, S Wang, L Chen, J Wang, H Chen, etc. Solving Formal Math Problems by Decomposition and Iterative Reflection, arXiv:2507.15225, 2025.
 
-* C Cheang, S Chen, Z Cui, Y Hu, L Huang, T Kong, H Li, Y Li, Y Liu, X Ma, etc, GR-3 Technical Report. arXiv:2507.15493, 2025.
+* C Cheang, S Chen, Z Cui, Y Hu, L Huang, T Kong, H Li, Y Li, Y Liu, X Ma, etc, GR-3 Technical Report, arXiv:2507.15493, 2025.
 
 * S Chen, P He, J Hu, Z Liu, Y Wang, T Xu, C Zhang, C Zhang, C An, S Cai, etc, Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning, arXiv:2506.06205, 2025.
 
@@ -75,9 +75,9 @@ Email: lihang.lh @ bytedance.com
 
 * X Zhang, H Xie, H Li, J CS Lui, Conversational Contextual Bandit: Algorithm and Application, WebConf 2020.
 
-* Ziniu Hu, Yang Wang, Qu Peng, Hang Li, Unbiased LambdaMART: An Unbiased Pairwise Learning to Rank Algorithm, WebConf 2019. 
+* Z Hu, Y Wang, Q Peng, H Li, Unbiased LambdaMART: An Unbiased Pairwise Learning to Rank Algorithm, WebConf 2019. 
 
-* Zichao Li, Xin Jiang, Lifeng Shang, Hang Li, Paraphrase Generation Using Deep Reinforcement Learning, EMNLP 2018.
+* Z Li, X Jiang, L Shang, H Li, Paraphrase Generation Using Deep Reinforcement Learning, EMNLP 2018.
 
 ### Recent Books
 
