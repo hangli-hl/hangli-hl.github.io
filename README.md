@@ -37,7 +37,7 @@ Email: lihang.lh @ bytedance.com
 
 * S Cheng, Z Huang, T Ko, H Li, N Peng, L Xu, Q Zhang, Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent, arXiv:2407.21646, 2024.
  
-### Selected Recent Publications
+### Selected Formal Publications
 
 * L Long, Y He, W Ye, Y Pan, Y Lin, H Li, J Zhao, W Li, Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory, ICLR 2026.
 
