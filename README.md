@@ -67,6 +67,8 @@ Email: lihang.lh @ bytedance.com
 
 * Y Zeng, X Zhang, H Li, Multi-Grained Vision Language Pre-training: Aligning Texts with Visual Concepts, ICML 2022.
 
+* X Zhang, P Li, H Li, AMBERT: A Pre-trained Language Model with Multi-grained Tokenization, ACL-IJCNLP Findings 2021.
+
 * Y Feng, Y Wang, H Li, A Sequence-to-Sequence Approach to Dialogue State Tracking, ACL 2021.
 
 * S Zhang, H Huang, J Liu, H Li, Spelling Error Correction with Soft-Masked BERT, ACL 2020.
