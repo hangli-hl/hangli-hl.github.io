@@ -1,4 +1,4 @@
-Hang Li's Homepage
+## Hang Li's Homepage
 
 I lead research teams at ByteDance Seed, working on robotics, AI for science, and responsible AI. I joined ByteDance in 2017. I worked at NEC Research during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
 
