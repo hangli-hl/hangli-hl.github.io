@@ -1,4 +1,4 @@
-# Hang Li's Homepage
+<img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/7982118d-b28d-4a2f-aab2-faf1c654b1e8" /># Hang Li's Homepage
 
 I lead research teams at ByteDance Seed, working on robotics, AI for science, and responsible AI. I joined ByteDance in 2017. I worked at NEC Research during 1990 and 2001, and Microsoft Research Asia during 2001 and 2012, Naoh's Ark Lab of Huawei Technologies during 2012 and 2017.
 
@@ -24,6 +24,8 @@ Email: lihang.lh @ bytedance.com
 * Y Liu, Y Yao, J Ton, X Zhang, R Cheng, Y Klochkov, M Taufiq, H Li, Trustworthy LLMs: Survey and Guideline for Evaluating Large Language Models' Alignment, arXiv:2308.05374, 2023.
 
 ### Selected Technical Reports
+
+* Y Li, X Ma, J Xu, Y Cui, Z Cui, Z Han, L Huang, T Kong, Y Liu, H Niu, etc. GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation, arXiv preprint arXiv:2512.01801, 2025.
 
 * H Fang, M Zhang, H Dong, W Li, Z Wang, Q Zhang, X Tian, Y Hu, H Li. Robix: A Unified Model for Robot Interaction, Reasoning, and Planning, arXiv:2509.01106, 2025.
 
